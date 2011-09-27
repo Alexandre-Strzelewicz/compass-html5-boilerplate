@@ -1,6 +1,15 @@
 Compass Html5 Boilerplate
 =========================
 
+# Overide
+
+- multi js inclusion 
+- set ENV['GOOGLE_ACCOUNT_ID'] then in config/google.yml 
+- lighter stylesheet
+- window token for ajax added
+
+# Fork
+
 HTML5 Boilerplate is a Compass extension based on HTML5 Boilerplate by Paul Irish.
 You can use it to kick-start fully compliant HTML5 applications. Setup your Rails
 applications with with fully integrated Haml and Sass/Scss templates that implement
